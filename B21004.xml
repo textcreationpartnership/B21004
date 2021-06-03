@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A supplement to the proposals for supplying His Majesty with twelve or fourteen millions of money (or more if required) for the year MDCXCVII, without subscripsions, or raising the present taxes : with a scheme that plainly demonstrates the same / by A.D. of Greys-Inn, Esq., and some others his friends.</title>
+            <author>A. D.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21004</idno><idno type="EEBO-CITATION">31355794</idno>
+  <idno type="VID">205841</idno>
+  <idno type="EEBO-PROQUEST">2240889703</idno>
+  
+            <idno type="STC">Wing D2B</idno>
+            <idno type="OCLC">31355794</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1737:12b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A supplement to the proposals for supplying His Majesty with twelve or fourteen millions of money (or more if required) for the year MDCXCVII, without subscripsions, or raising the present taxes : with a scheme that plainly demonstrates the same / by A.D. of Greys-Inn, Esq., and some others his friends.</title>
+                  <author>A. D.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author, and sold by Peter Parker ... and John Waltho .... and John Gouge ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCVII [1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bound and filmed following Wing (2nd ed.) D2, Proposals to supply  His Majesty with twelve or fourteen millions of money...", which is cataloged separately.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Currency question --  Great Britain --  Early works to 1800.</term>
+               <term type="topical_term">Banks and banking --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205841:1"/>
+            <pb facs="tcp:205841:1"/>
+            <p>A Supplement TO THE PROPOSALS For Supplying His MAJESTY with Twelve or Fourteen Millions of Money, (Or more, if Required,) For the Year MDCXCVII. Without <hi>Subscripsions,</hi> or Raising the present <hi>Taxes.</hi> WITH A SCHEME that Plainly Demonstrates the same.</p>
+            <p>By <hi>A. D.</hi> of <hi>Greys-Inn,</hi> Esq;, and some Others his Friends.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, and Sold by <hi>Peter Parker</hi> at the <hi>Leg</hi> and <hi>Star</hi> over-against the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> and <hi>John Waltho</hi> at the <hi>Cloysters</hi> in the <hi>Temple,</hi> and <hi>John Gouge</hi> at the <hi>Castle</hi> in <hi>Westminster-Hall, Anno Domini</hi> MDCXCVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="proposals">
+            <pb facs="tcp:205841:2"/>
+            <pb n="3" facs="tcp:205841:2"/>
+            <p>'TIS a Great Sum that His Majesty's <hi>present Necessi<g ref="char:EOLhyphen"/>ties</hi> do now call aloud for: The nearest Estimate I can make, is not less than <hi>Twelve Millions.</hi> And if he pays off the <hi>Royal Bank,</hi> and will Redeem the King<g ref="char:EOLhyphen"/>doms Credit and theirs, the same will require very little (if any) less than <hi>Fourteen Millions;</hi> which is lookt upon to <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e almost (if not altogether) twice as much Money as is in the whole Kingdom. And if the King be not supplied, we are sure to be Vas<g ref="char:EOLhyphen"/>sals to <hi>France;</hi> or if he have so much, as that little or none be left for the People, the Kingdom must sink and perish.</p>
+            <p>This looks like an <hi>Extraordinary Extremity,</hi> but, in the Bottom, is no farther so, than as our selves will make it, because we have e<g ref="char:EOLhyphen"/>nough of Moneys Worth; and the Old Maxim says, That <hi>no man is bare, who has Lands, Money, or the worth of it, because all is Convertible into Money;</hi> And therefore whilst we have any thing, we ought to defend it as we can best, which is, by giving part of such as we have, or can have, to save the rest: And to sup<g ref="char:EOLhyphen"/>ply the King for that end, needs no more than this One Tax; And this will be most equal, because every one who has most, contributes the most towards it.</p>
+            <p>Now no Tax seems to be so equal as that upon Malt; For the Land-Tax lies heavy on the Landlords, whilst many Rich Trades<g ref="char:EOLhyphen"/>men, nay, the very Malsters themselves, and other Wealthy House-holders (that live upon their Personal Estates) go almost Scot-free, and haue hitherto paid very little or Nothing to the Wars. And this Malt-Tax would not only be equal, but also easie, because it would be small and light upon the Rich, and the Poor will be eased thereby; and so Ʋniversal, as none will be able to evade the full of (or near) their Proportions; and tho it be small, yet it will (by that Universa<g ref="char:EOLhyphen"/>lity) arise to a Fund sufficiently big, with what else is proposed, to raise
+<pb n="4" facs="tcp:205841:3"/> Millions of Money enough to supply all the King's Occasions to the full, being paid off by Two Millions a Year. And if the Nation will but take their own Profits by Ʋsury into their own hands, the War may thereby be continued to sink our Enemies, and the Land-Tax be for e<g ref="char:EOLhyphen"/>ver laid aside, save only one half thereof for the Year 1697.</p>
+            <p>All which is very easie to be accomplished by the following Means, VIZ.</p>
+            <list>
+               <item>1<hi>st,</hi> By Establishing a true National Universal Credit through<g ref="char:EOLhyphen"/>out every part of the Kingdom, inherent in the Parliament; Be<g ref="char:EOLhyphen"/>cause no Credit in particular hands can be so Universally Accept<g ref="char:EOLhyphen"/>able, Safe, Convenient or Profitable to the Nation, which privat<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Banks have greatly dishonoured.</item>
+               <item>2<hi>dly,</hi> By transferring the Present Excises upon Beer and Ale in<g ref="char:EOLhyphen"/>to a less Duty upon Malt, which yet will produce more than five times the Yearly quantity of money to His <hi>Majesty</hi> than these Excises amount to; and that with a great deal more Ease and E<g ref="char:EOLhyphen"/>quality to the Subjects, and half the Charge saved in Collecting.</item>
+            </list>
+            <p>The Methods whereof, and the Advantages whereby, are set forth (by plain Demonstration) in the following Scheme.</p>
+            <p>
+               <table>
+                  <head>A <hi>Scheme</hi> of most Easie Demonstration, to Raise for His <hi>Majesty</hi> Twelve or Fourteen Millions of Mo<g ref="char:EOLhyphen"/>ney (or more, if desired) for the Year 1697. without <hi>Subscripsions,</hi> or <hi>Advancing</hi> the present <hi>Taxes.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>THree Bushels of Malt make a Barrel of Strong Beer, the Excises whereof are</cell>
+                     <cell>4</cell>
+                     <cell>9</cell>
+                  </row>
+                  <row>
+                     <cell>One Barrel of Small Beer comes off from the same, whose Excises are</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>So as three Bushels of Malt (now paying 2 <hi>s. per</hi> Bu<g ref="char:EOLhyphen"/>shel Excise) makes it up Six Shilling</cell>
+                     <cell>6</cell>
+                     <cell>0</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="5" facs="tcp:205841:3"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>A Gentleman of 500 <hi>l. per Ann.</hi> now pays, (or ought to pay) by the 4 <hi>s.</hi> in the Pound Tax 100 <hi>l.</hi>
+                     </cell>
+                     <cell>100</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>He is supposed to Expend 25 Hogsheads of Strong Beer <hi>per Ann.</hi> to which is allowed Six Bushels of Malt <hi>per</hi> Hogshead, in fa<g ref="char:EOLhyphen"/>vour of the Accompt to the Landed Gentry, tho' 'tis not often that more than Five Bushels are afforded; but at Six Bushels <hi>per</hi> Hogsh<seg rend="sup">d</seg> it comes to no more than 150 Bushels; which at Twenty pence <hi>per</hi> Bushel, his whole Years Tax will come to but Twelve Pounds ten Shillings. Because 25 Hogsheads of Small Beer (or more) will come off from the same, for the Use of his Family.</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>So as in lieu of One Hundred Pounds he now pays for his Land Tax, he shall then pay no more than Twelve Pounds Ten Shillings for his Malt Tax, whereby he will be a Saver <hi>per Annum</hi> of Eighty-seven Pounds and Ten Shillings.</cell>
+                     <cell>87</cell>
+                     <cell>10</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>There are divers Estimates of the Quantity of Malt, made Yearly in <hi>England,</hi> but most Men do believe that laborious Computation to be nearest the Truth, which says, Eight Pence <hi>per</hi> Bushel will raise <hi>per Ann.</hi> Two Millons One Hundred Thousand Pounds.</cell>
+                     <cell>2.100.000</cell>
+                  </row>
+                  <row>
+                     <cell>Wherefore, if a Duty of 20 <hi>d. per</hi> Bushel be laid thereon, the same will be less by 4 <hi>d.</hi> on the Bushel, (or 12 <hi>d.</hi> on the Barrel of Beer) than the <hi>Brewers</hi> now pay; and yet that easie Tax (if the quantity of Malt be right guess'd at, of which there is almost as plain Demonstration, as of any thing in the World) will raise for the KING <hi>per ann.</hi> Five Millions Two Hun<g ref="char:EOLhyphen"/>dred and Fifty Thousand Pounds.</cell>
+                     <cell>5.250.000</cell>
+                  </row>
+                  <row>
+                     <cell>If there be allow'd for the present Excises (which is supposed to be the utmost those yield) Nine Hun<g ref="char:EOLhyphen"/>dred and Fifty Thousand Pounds <hi>per annum.</hi>
+                     </cell>
+                     <cell>950.000</cell>
+                  </row>
+                  <row>
+                     <cell>This Universal Excise of 20 <hi>d. per</hi> Bushel amounts to more than the present Excises of 2 <hi>s. per</hi> Bushel (as it is now laid) by Four Millions and Three Hundred Thou<g ref="char:EOLhyphen"/>sand Pounds <hi>per annum.</hi>
+                     </cell>
+                     <cell>4.300.000</cell>
+                  </row>
+                  <pb n="6" facs="tcp:205841:4"/>
+                  <row>
+                     <cell>If for the Charge in Collecting be allow'd <hi>per annum</hi> Two Hundred Thousand Pounds,</cell>
+                     <cell>200.000</cell>
+                  </row>
+                  <row>
+                     <cell>There will remain neat from the several Offices for the Service of the Nation Four Millions and One Hun<g ref="char:EOLhyphen"/>dred Thousand Pounds for the Year 1697.</cell>
+                     <cell>4.100.000</cell>
+                  </row>
+                  <row>
+                     <cell>Whereunto adding one half of the Neat Money of 4 <hi>s.</hi> for the Land Tax for that Year 1697. the same will be at 2 <hi>s. per</hi> Pound about Nine Hundred Thousand Pds.</cell>
+                     <cell>900.000</cell>
+                  </row>
+                  <row>
+                     <cell>Here will be collected in the Year 1697. in Neat Cash, of Mill'd Money and Guineas, Five Millions.</cell>
+                     <cell>5.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>If there be paid out of this, to discharge Bills for the Year 1697. Two Millions,</cell>
+                     <cell>2.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>There will remain a Reserve at the end of the Year 1697. for a Collateral Security, and to pay those that want Cash, to answer Foreign Demands, and to put Bills in Circulation at 3 <hi>per Cent</hi> Interest, on Mortgages and other Securities, Three Millions.</cell>
+                     <cell>3.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>Admitting the Malt Tax in the Year 1698.
+<table>
+                           <row>
+                              <cell>to raise the like Summ, as in the Year 1697.</cell>
+                              <cell>4.100.000</cell>
+                           </row>
+                           <row>
+                              <cell>And deducting from thence another 2 Mill.</cell>
+                              <cell>2.000.000</cell>
+                           </row>
+                        </table>
+                     </cell>
+                     <cell>2.100.000</cell>
+                  </row>
+                  <row>
+                     <cell>There will be at the end of the Year 1698. a Stock remaining in Reserve, for Collateral Security, and to pay Cash in specie on Foreign Occasions, and to Circu<g ref="char:EOLhyphen"/>late Bills as aforesaid, of Five Millions and One Hundred Thousand Pounds, towards the Defraying the Charge of the Wars for that Year, if it continues.</cell>
+                     <cell>5.100.000</cell>
+                  </row>
+                  <row>
+                     <cell>And for a Help thereunto, will be the Profits from the Offices of that Year 1698 entire, together with some Effects that may be expected from thence in the Year 1697. if the same shall be settled by <hi>Midsummer,</hi> or <hi>Michaelmas</hi> next, and Mortgages come in, and Money lent on those and on Lombards, and other good Securi<g ref="char:EOLhyphen"/>ties, at 3 <hi>per Cent,</hi> the clear Profits by <hi>Christmas,</hi> 1698. or by <hi>Lady-day</hi> following, being one Year and a half,
+<pb n="7" facs="tcp:205841:4"/> may be hoped (besides the Charges of managing the same) to exceed Six Millions.</cell>
+                     <cell>6.000.000</cell>
+                  </row>
+                  <row>
+                     <cell>So as there will be a Stock, ready collected for the Service of the Kingdom, for the Year 1698. Eleven Millions and One Hundred Thousand Pounds.</cell>
+                     <cell>11.100.000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And there will (yet) arise a further Help from the Funds, that shall have clear'd aforesaid their Anticipations.</p>
+            <p>Here is like to be Money enough to pay the Charge of the Na<g ref="char:EOLhyphen"/>tion in the Year 1698, and a great deal to spare, to Circulate Bills, and in the Sessions that Year, the Parliament will see more clearly what Measures to take for the Year 1699. than can now be foretold; and if the Profits on these Bills shall answer the present Prospect, neither this, nor any other Tax will need long to continue.</p>
+            <p>But in the mean time here will be enough every day coming in, to remove that sore Oppression, so bitterly groan'd under, the Tax upon untenanted Houses, which the lowering of Rents cannot mend whilst the People have no Trade to subsist by, but which the Me<g ref="char:EOLhyphen"/>thods herein proposed will suddainly revive to Admiration and Wonder.</p>
+            <p>Hitherto is set forth what may be expected from the Malt Tax, and the Offices of Credit from the beginning of the Year 1697. to the end of the Year 1698. the same being a Ground-Work for what shall here follow, <hi>Viz.</hi>
+            </p>
+            <p>That how many Millions soever the Parliament shall think fit to give unto His Majesty for the Year 1697. the same may be paid off by Two Millions <hi>per Annum,</hi> according to the Methods aforesaid, for which, Orders may be drawn by the Lords of the Treasury on the <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ead Office in <hi>London;</hi> from whence may (accordingly) issue Bills for the whole Money, given by Parliament for that Years Service, to be paid off by these Two Millions <hi>per Annum,</hi> as the Cash shall come into the Offices, according to the Priority of the Number of every Bill, and the the Contents of the Draughts from the Lords of the Treasury, to be distributed by Directions from the Respective particular Treasurers of the Army, Navy, Ordnance, <hi>&amp;c.</hi> to every individual Person con<g ref="char:EOLhyphen"/>cern'd therein; regard being had to the like Priority of Numbers of those Bills in like manner: And that in the mean time the Money comes in, all these Bills shall pass current from Man to Man for the Sums express'd in 'em, as for so much Money in Coin.</p>
+            <pb n="8" facs="tcp:205841:5"/>
+            <p>And if the <hi>Royal Bank</hi> shall be pleased to accept of their Mony, and the Interest due thereupon; nay, and also if they please to transfer their Securities, and that his Majesties Pleasure shall be such, the said <hi>Lords Commissioners</hi> may give unto them the first Bills, or one half, or one Third thereof, as can best be agreed on, to be paid off in New Mony and Gui<g ref="char:EOLhyphen"/>nies (provided they so pay others) that shall first come in from the Taxes, which 'tis hoped they will not refuse (barely for the Lucre of that Extraordinary Interest of 8 l. 6 s. 8 d. <hi>per cent.</hi> considering the present Distresses of the Nation. And the Persons indebted, who shall be concerned in Transferring of these Securities, will migh<g ref="char:EOLhyphen"/>tily rejoice in having their Interest reduced to 3 <hi>per cent.</hi> by the Kind<g ref="char:EOLhyphen"/>ness of the Government.</p>
+            <p>I come now to a few words more to the Nobles and Landed Gentle<g ref="char:EOLhyphen"/>men, <hi>viz</hi> It is proved before, that Twelve pounds ten shillings <hi>per an<g ref="char:EOLhyphen"/>num</hi> Extraordinary Charge on their Beer, will save 100 <hi>l.</hi> of the Land-Tax; wherein is further to be observ'd, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>That the said 12 <hi>l.</hi> 10 <hi>s.</hi> is One Years full Quota for that Gentleman of 500 <hi>l. per annum,</hi> to pay towards the raising for his Majesty Five Millions Two Hundred and Fifty Thousand Pounds</cell>
+                     <cell>5250000</cell>
+                  </row>
+                  <row>
+                     <cell>And in the Land Tax his Years Quota of 100 <hi>l.</hi> raises no more than Two Millions</cell>
+                     <cell>2000,000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which gives Demonstration that the Landlords in the Countrey will be savers, manyfold over.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>For if 100 <hi>l.</hi> raises but Two Millions</cell>
+                     <cell>100 <hi>l.</hi>
+                     </cell>
+                     <cell>2000000</cell>
+                  </row>
+                  <row>
+                     <cell>Twelve Pounds ten shillings <hi>(pro Rato)</hi> ought to raise no more than Two Hundred and Fifty Thousand Pounds</cell>
+                     <cell>12 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell>250000</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Now if that Twelve Pounds Ten shillings, the Proportion whereof is to raise no more than Two Hundred and Fifty Thousand Pounds, <hi>per Annum,</hi> do's raise 5 Millions and 250 thousand pounds, then it do's so many sold over the Service of a Land-Tax to the Landed Gen<g ref="char:EOLhyphen"/>tleman of 500 l a year, as may be astonishing until the same shall be demonstrated by Arithmetical Operation.</p>
+            <p>Two Doubts (and no more) can be made in this <hi>Scheme;</hi> the one is in the Quantity of the Malt; the other in the Profits by the Usury of the Nation; both which are hoped (the one with the other) so will make up, as not to fall short, tho none can be positive in things of this Na<g ref="char:EOLhyphen"/>ture. But whatsoever shall occur, the next Sessions of Parliament will see things more clear, and Regulate what shall be necessary, and conti<g ref="char:EOLhyphen"/>nue from Sessions to Sessions to make all needful Rectifications.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
